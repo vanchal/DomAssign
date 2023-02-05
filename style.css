@@ -1,0 +1,54 @@
+*{
+    padding : 0;
+    margin : 0;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+.container{
+    margin : 50px;
+    padding : 20px;
+    text-align: center;
+}
+
+ #item{
+    padding : 10px;
+    margin : 20px;
+    width : 50%;
+    border : solid 5px purple;
+    border-radius: 5px;
+    background-color: lightskyblue;
+ }
+
+ #button{
+    padding : 10px;
+    margin : 20px;
+    width : 20%;
+    border : solid black ;
+    border-radius: 5px;
+    background-color: blueviolet;
+ }
+
+ .container1{
+    margin : 50px;
+    padding : 20px;
+    text-align : center;
+ }
+
+ .p1{
+    padding : 10px;
+    margin: 20px;
+    font-size: larger;
+    font-weight: bolder;
+ }
+
+
+.listitems{
+    background-color: orangered;
+    text-align: left;
+    padding : 5px;
+    margin : 10px 5px;
+    font-size: larger;
+    border : solid black;
+    border-radius: 5px;
+}
